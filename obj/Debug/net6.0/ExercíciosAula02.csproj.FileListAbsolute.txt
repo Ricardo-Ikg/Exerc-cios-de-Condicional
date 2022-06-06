@@ -1,0 +1,15 @@
+C:\Users\ricardo.ikegame\Desafiados\git\Exercícios\Desafiados-OperadoresRelacionais\ExercíciosAula02\obj\Debug\net6.0\ExercíciosAula02.csproj.AssemblyReference.cache
+C:\Users\ricardo.ikegame\Desafiados\git\Exercícios\Desafiados-OperadoresRelacionais\ExercíciosAula02\obj\Debug\net6.0\ExercíciosAula02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricardo.ikegame\Desafiados\git\Exercícios\Desafiados-OperadoresRelacionais\ExercíciosAula02\obj\Debug\net6.0\ExercíciosAula02.AssemblyInfoInputs.cache
+C:\Users\ricardo.ikegame\Desafiados\git\Exercícios\Desafiados-OperadoresRelacionais\ExercíciosAula02\obj\Debug\net6.0\ExercíciosAula02.AssemblyInfo.cs
+C:\Users\ricardo.ikegame\Desafiados\git\Exercícios\Desafiados-OperadoresRelacionais\ExercíciosAula02\obj\Debug\net6.0\ExercíciosAula02.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.ikegame\Desafiados\git\Exercícios\Desafiados-OperadoresRelacionais\ExercíciosAula02\bin\Debug\net6.0\ExercíciosAula02.exe
+C:\Users\ricardo.ikegame\Desafiados\git\Exercícios\Desafiados-OperadoresRelacionais\ExercíciosAula02\bin\Debug\net6.0\ExercíciosAula02.deps.json
+C:\Users\ricardo.ikegame\Desafiados\git\Exercícios\Desafiados-OperadoresRelacionais\ExercíciosAula02\bin\Debug\net6.0\ExercíciosAula02.runtimeconfig.json
+C:\Users\ricardo.ikegame\Desafiados\git\Exercícios\Desafiados-OperadoresRelacionais\ExercíciosAula02\bin\Debug\net6.0\ExercíciosAula02.dll
+C:\Users\ricardo.ikegame\Desafiados\git\Exercícios\Desafiados-OperadoresRelacionais\ExercíciosAula02\bin\Debug\net6.0\ExercíciosAula02.pdb
+C:\Users\ricardo.ikegame\Desafiados\git\Exercícios\Desafiados-OperadoresRelacionais\ExercíciosAula02\obj\Debug\net6.0\ExercíciosAula02.dll
+C:\Users\ricardo.ikegame\Desafiados\git\Exercícios\Desafiados-OperadoresRelacionais\ExercíciosAula02\obj\Debug\net6.0\refint\ExercíciosAula02.dll
+C:\Users\ricardo.ikegame\Desafiados\git\Exercícios\Desafiados-OperadoresRelacionais\ExercíciosAula02\obj\Debug\net6.0\ExercíciosAula02.pdb
+C:\Users\ricardo.ikegame\Desafiados\git\Exercícios\Desafiados-OperadoresRelacionais\ExercíciosAula02\obj\Debug\net6.0\ExercíciosAula02.genruntimeconfig.cache
+C:\Users\ricardo.ikegame\Desafiados\git\Exercícios\Desafiados-OperadoresRelacionais\ExercíciosAula02\obj\Debug\net6.0\ref\ExercíciosAula02.dll
